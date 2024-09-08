@@ -1,0 +1,9 @@
+gloves
+hardhat
+no-gloves
+no-hardhat
+no-shoes
+no-vest
+person
+shoes
+vest
